@@ -15,6 +15,7 @@ Dataset obtained from Kaggle: https://www.kaggle.com/datasets/ajaypalsinghlo/wor
   The dataset includes information from the 2021 World Happiness Report. The columns of the dataset include country names, region, and a ladder score. The ladder score is the overall happiness score of a country based on the numerical scale 0-10, 0 being the least happy and 10 being the most. This score is determined from the Gallup World Poll in which researchers ask respondents main life evaluation questions based off a technique called the Cantril ladder to determine the ladder score. In addition to the country and score columns, the dataset includes columns that represent different factors of a nation which may be influential factors to the overall happiness score of a country. The columns of interest for this project include the logged GDP per capita, life expectancy, social support, freedom to make life choices, generosity, and perceptions of corruption.
   
 Additional details on dataset columns:
+
 **Healthy Life Expectancy** – data extracted from the World Health Organization’s Global Health Observatory data repository.
 
 **Social Support** – the national average of binary responses to the GWP question “If you were in trouble, do you have relatives or friends you can count on to help you whenever you need them, or not?”
