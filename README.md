@@ -1,2 +1,2 @@
-# CST383_Final_Project
-Intro to Data Science - Final Project - Group 9 Enigma Labs
+# CST383: Intro to Data Science - Final Project
+National Happiness
